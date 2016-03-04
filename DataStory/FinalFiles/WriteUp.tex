@@ -182,14 +182,15 @@ Using
 \begin{equation}
   \log d - \log p = \theta_c + \theta_j \log j
 \end{equation}
-as my model, where $d$ is the drop-offs in a given census tract, $p$ is the population (included in the model as an offset), and $\theta_c$ and $\theta_j$ are unknown parameters of the model,
+as my model, where $d$ is the drop-offs in a given census tract, $p$ is the population (included in the model as an offset), and $\theta_c$ and $\theta_j$ are unknown parameters of the model.
 I do a Poisson regression on this data and find that 
 \begin{equation}
   \label{eq:PoissonFit}
   y\approx \frac{j^2}{4.7\times 10^8},
 \end{equation}
-where $y$ is the drop-offs per-capita in a given census tract, and $j$ is the per-capita income of that tract.
-This fit is illustrated in \fref{dropoffsvsincome}.\todo{Clean up Poisson analysis notebook and add footnote}
+where $y$ is the drop-offs per-capita in a given census tract, and $j$ is the per-capita income of that tract\footnote{The code for performing the Poisson regression analysis can be found on my github under \href{https://github.com/ThomasProctor/Slide-Rule-Data-Intensive/blob/master/DataStory/FinalFiles/Poisson_regression.ipynb}{\texttt{Poisson\_regression.ipynb}}. This jupyter notebook also contains all the code to generate the associated figures and other analysis.}.
+This fit is illustrated in \fref{dropoffsvsincome}.
+%\todo{Clean up Poisson analysis notebook and add footnote}
 
 
 
