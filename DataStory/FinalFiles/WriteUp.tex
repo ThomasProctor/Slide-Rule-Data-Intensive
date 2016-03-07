@@ -2,7 +2,8 @@
 
 \usepackage{hyperref}
 \usepackage{graphicx}
-\usepackage{todonotes}
+\usepackage[disable]{todonotes}
+%\usepackage{todonotes}
 %\usepackage{endnotes}
 
 \usepackage{footnotebackref}
@@ -161,8 +162,8 @@ Access to Manhattan by car requires crossing two bridges and driving through muc
 It is the only borough where non-Hispanic whites make up a majority of the population\footnote{\url{https://en.wikipedia.org/wiki/Demographics_of_Manhattan}}, and its car ownership rate by household of 84\% dwarfs that of the next closest, Queens, with 64\%\footnote{\url{http://www.nycedc.com/blog-entry/new-yorkers-and-cars}}.
 Unlike most of New York City, it is almost entirely suburban, and the separation between Staten Island is so pronounced that a referendum passed in 1993 to secede from the city, though the state prevented its implementation.
 
-\todo{Clean up feature selection notebook, add github link to endnotes}
-Feature selection of a large body of demographic data, including commute patters, racial make-up, and economic data of residents indicates that per-capita income is the most promising predictor for drop-offs in a given census tract. 
+%\todo{Clean up feature selection notebook, add github link to endnotes}
+Feature selection of a large body of demographic data, including commute patters, racial make-up, and economic data of residents indicates that per-capita income is the most promising predictor for drop-offs in a given census tract\footnote{Notebook can be found on my github page under \href{https://github.com/ThomasProctor/Slide-Rule-Data-Intensive/blob/master/DataStory/FinalFiles/Feature\%20Selection.ipynb}{Feature Selection.ipynb}}. 
 This is not surprising. Taxicabs are a luxury service. In NYC, taxi cabs compete with public transit that costs about as much per trip as the minimum charge for a taxi, and just a little bit over 1\% of New York commuters commute mainly via taxicab. 
 Thus, I would expect that those with more income are more likely to take cabs, and this is the case. 
 %\todo{Write about removing Staten Island}

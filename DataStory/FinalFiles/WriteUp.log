@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.24)  4 MAR 2016 18:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.24)  6 MAR 2016 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -442,22 +442,22 @@ ange)
 (./WriteUp.aux)
 \openout1 = `WriteUp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 \AtBeginShipoutBox=\box35
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 30.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -466,9 +466,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (./WriteUp.out) (./WriteUp.out)
 \@outlinefile=\write4
@@ -505,15 +505,15 @@ e
 ))
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
+(Font)              <12> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              <6> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 40.
+(Font)              <7> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 40.
+(Font)              <5> on input line 41.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <2013dropoff_map2.pdf, id=
@@ -521,58 +521,55 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: 2013dropoff_map2.pdf Graphic file (type pdf)
 
 <use 2013dropoff_map2.pdf>
-Package pdftex.def Info: 2013dropoff_map2.pdf used on input line 62.
+Package pdftex.def Info: 2013dropoff_map2.pdf used on input line 63.
 (pdftex.def)             Requested size: 360.0pt x 254.39859pt.
  [2 <./2013dropoff_map2.pdf>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 75.
+(Font)              <10.95> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 75.
+(Font)              <9> on input line 76.
  [3] [4]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 164.
-
-<2013count_dropoffs_vs_income_low_car_poisson.png, id=116, 701.59715pt x 433.62
+<2013count_dropoffs_vs_income_low_car_poisson.png, id=119, 701.59715pt x 433.62
 pt>
 File: 2013count_dropoffs_vs_income_low_car_poisson.png Graphic file (type png)
  <use 2013count_dropoffs_vs_income_low_car_poisson.png>
 Package pdftex.def Info: 2013count_dropoffs_vs_income_low_car_poisson.png used 
-on input line 178.
+on input line 179.
 (pdftex.def)             Requested size: 360.0pt x 222.49304pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+Overfull \vbox (1.81198pt too high) has occurred while \output is active []
+
+
 [5] [6 <./2013count_dropoffs_vs_income_low_car_poisson.png>]
-<2013quasi-poisson_QQ.png, id=149, 433.62pt x 289.08pt>
+<2013quasi-poisson_QQ.png, id=153, 433.62pt x 289.08pt>
 File: 2013quasi-poisson_QQ.png Graphic file (type png)
 
 <use 2013quasi-poisson_QQ.png>
-Package pdftex.def Info: 2013quasi-poisson_QQ.png used on input line 223.
+Package pdftex.def Info: 2013quasi-poisson_QQ.png used on input line 224.
 (pdftex.def)             Requested size: 360.0pt x 240.01132pt.
  [7 <./2013quasi-poisson_QQ.png>] [8]
-(./WriteUp.tdo)
-\tf@tdo=\write5
-\openout5 = `WriteUp.tdo'.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
- (./WriteUp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+(./WriteUp.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
 Package rerunfilecheck Info: File `WriteUp.out' has not changed.
 (rerunfilecheck)             Checksum: A7FC37F4F3579E16470BA2FE4D5D950D;391.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 283.
  ) 
 Here is how much of TeX's memory you used:
- 14004 strings out of 493304
- 252894 string characters out of 6139871
- 325192 words of memory out of 5000000
- 17184 multiletter control sequences out of 15000+600000
+ 13917 strings out of 493304
+ 250984 string characters out of 6139871
+ 320598 words of memory out of 5000000
+ 17102 multiletter control sequences out of 15000+600000
  10890 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 63i,9n,76p,835b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,8n,57p,835b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -586,10 +583,10 @@ m/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on WriteUp.pdf (9 pages, 3441414 bytes).
+Output written on WriteUp.pdf (8 pages, 3440321 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 223 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
