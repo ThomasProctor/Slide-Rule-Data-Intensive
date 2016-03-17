@@ -1,0 +1,2409 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.0.1-Dufour">
+    <title></title>
+    <mapcanvas>
+        <units>feet</units>
+        <extent>
+            <xmin>990655.99027957418002188</xmin>
+            <ymin>226847.07603982932050712</ymin>
+            <xmax>1037009.9353532693348825</xmax>
+            <ymax>264328.83745170757174492</ymax>
+        </extent>
+        <projections>0</projections>
+        <destinationsrs>
+            <spatialrefsys>
+                <proj4>+proj=lcc +lat_1=41.03333333333333 +lat_2=40.66666666666666 +lat_0=40.16666666666666 +lon_0=-74 +x_0=300000.0000000001 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+                <srsid>245</srsid>
+                <srid>2263</srid>
+                <authid>EPSG:2263</authid>
+                <description>NAD83 / New York Long Island (ftUS)</description>
+                <projectionacronym>lcc</projectionacronym>
+                <ellipsoidacronym>GRS80</ellipsoidacronym>
+                <geographicflag>false</geographicflag>
+            </spatialrefsys>
+        </destinationsrs>
+    </mapcanvas>
+    <legend updateDrawingOrder="true" activeLayer="lotsofdata20160309151148300">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Per-capita income" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="lotsofdata20160309151245638" visible="0"/>
+            </filegroup>
+        </legendlayer>
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Total drop-offs" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="lotsofdata20160309151148300" visible="1"/>
+            </filegroup>
+        </legendlayer>
+    </legend>
+    <Composer title="NonTechnicalTotDrop" visible="0">
+        <Composition printResolution="200" paperWidth="800" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="800" alignmentSnapTolerance="2" printAsRaster="0">
+            <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+                <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+                    <symbol alpha="0.3" type="fill" name="">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,0,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="no"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </overviewFrame>
+                <Extent ymin="33944.5" xmin="904316" ymax="275085" xmax="1.13723e+06"/>
+                <LayerSet/>
+                <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+                    <symbol alpha="1" type="line" name="">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="flat"/>
+                            <prop k="color" v="0,0,0,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="customdash_unit" v="MM"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.3"/>
+                            <prop k="width_unit" v="MM"/>
+                        </layer>
+                    </symbol>
+                    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Sans,9,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+                        <fontColor red="0" blue="0" green="0"/>
+                    </Annotation>
+                </Grid>
+                <ComposerItem width="767.472" x="29.4619" transparency="0" y="159.574" rotation="0" height="794.579" positionMode="0" frame="false" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="0.737828" uuid="{3ff7d041-c163-48dc-a04b-475a32fadd5e}" id="" background="false" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerMap>
+        </Composition>
+    </Composer>
+    <Composer title="NonTechnicalTotDrop2" visible="0">
+        <Composition printResolution="400" paperWidth="297" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="210" alignmentSnapTolerance="2" printAsRaster="0">
+            <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+                <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+                    <symbol alpha="0.3" type="fill" name="">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,0,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="no"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </overviewFrame>
+                <Extent ymin="114727" xmin="904316" ymax="279183" xmax="1.13723e+06"/>
+                <LayerSet/>
+                <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+                    <symbol alpha="1" type="line" name="">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="flat"/>
+                            <prop k="color" v="0,0,0,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="customdash_unit" v="MM"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.3"/>
+                            <prop k="width_unit" v="MM"/>
+                        </layer>
+                    </symbol>
+                    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Sans,9,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+                        <fontColor red="0" blue="0" green="0"/>
+                    </Annotation>
+                </Grid>
+                <ComposerItem width="296" x="0" transparency="0" y="0" rotation="0" height="209" positionMode="0" frame="false" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.85782" uuid="{66372242-6008-48db-ba15-b95dd12d06b1}" id="" background="false" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerMap>
+        </Composition>
+    </Composer>
+    <Composer title="NonTechnicalTotDrop3" visible="0">
+        <Composition printResolution="300" paperWidth="200" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="200" alignmentSnapTolerance="2" printAsRaster="0">
+            <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+                <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+                    <symbol alpha="0.3" type="fill" name="">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,0,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="no"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </overviewFrame>
+                <Extent ymin="100108" xmin="895669" ymax="281706" xmax="1.09293e+06"/>
+                <LayerSet/>
+                <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+                    <symbol alpha="1" type="line" name="">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="flat"/>
+                            <prop k="color" v="0,0,0,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="customdash_unit" v="MM"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.3"/>
+                            <prop k="width_unit" v="MM"/>
+                        </layer>
+                    </symbol>
+                    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Sans,9,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+                        <fontColor red="0" blue="0" green="0"/>
+                    </Annotation>
+                </Grid>
+                <ComposerItem width="251.811" x="-21.0068" transparency="0" y="-10.3114" rotation="0" height="231.82" positionMode="0" frame="false" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.85782" uuid="{4a54bf3f-f00f-4745-935b-30cbd81871a7}" id="" background="false" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerMap>
+        </Composition>
+    </Composer>
+    <projectlayers layercount="2">
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>lotsofdata20160309151148300</id>
+            <datasource>dbname='TaxiData' host=localhost port=5432 user='postgres' sslmode=disable key='fipscodes' srid=2263 type=MULTIPOLYGON table="public"."lotsofdata" (tract_geom_coast) sql=</datasource>
+            <title></title>
+            <abstract></abstract>
+            <keywordList>
+                <value></value>
+            </keywordList>
+            <layername>Total drop-offs</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=lcc +lat_1=41.03333333333333 +lat_2=40.66666666666666 +lat_0=40.16666666666666 +lon_0=-74 +x_0=300000.0000000001 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+                    <srsid>245</srsid>
+                    <srid>2263</srid>
+                    <authid>EPSG:2263</authid>
+                    <description>NAD83 / New York Long Island (ftUS)</description>
+                    <projectionacronym>lcc</projectionacronym>
+                    <ellipsoidacronym>GRS80</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <provider encoding="System">postgres</provider>
+            <previewExpression></previewExpression>
+            <vectorjoins/>
+            <renderer-v2 attr="twentythirteen_full_count" symbollevels="0" type="graduatedSymbol">
+                <ranges>
+                    <range symbol="0" lower="5.000000" upper="178.320000" label="5.0000 - 178.3200"/>
+                    <range symbol="1" lower="178.320000" upper="294.000000" label="178.3200 - 294.0000"/>
+                    <range symbol="2" lower="294.000000" upper="364.960000" label="294.0000 - 364.9600"/>
+                    <range symbol="3" lower="364.960000" upper="429.280000" label="364.9600 - 429.2800"/>
+                    <range symbol="4" lower="429.280000" upper="491.000000" label="429.2800 - 491.0000"/>
+                    <range symbol="5" lower="491.000000" upper="567.000000" label="491.0000 - 567.0000"/>
+                    <range symbol="6" lower="567.000000" upper="635.000000" label="567.0000 - 635.0000"/>
+                    <range symbol="7" lower="635.000000" upper="694.680000" label="635.0000 - 694.6800"/>
+                    <range symbol="8" lower="694.680000" upper="743.000000" label="694.6800 - 743.0000"/>
+                    <range symbol="9" lower="743.000000" upper="789.200000" label="743.0000 - 789.2000"/>
+                    <range symbol="10" lower="789.200000" upper="849.000000" label="789.2000 - 849.0000"/>
+                    <range symbol="11" lower="849.000000" upper="913.840000" label="849.0000 - 913.8400"/>
+                    <range symbol="12" lower="913.840000" upper="981.480000" label="913.8400 - 981.4800"/>
+                    <range symbol="13" lower="981.480000" upper="1048.480000" label="981.4800 - 1048.4800"/>
+                    <range symbol="14" lower="1048.480000" upper="1135.800000" label="1048.4800 - 1135.8000"/>
+                    <range symbol="15" lower="1135.800000" upper="1193.360000" label="1135.8000 - 1193.3600"/>
+                    <range symbol="16" lower="1193.360000" upper="1256.880000" label="1193.3600 - 1256.8800"/>
+                    <range symbol="17" lower="1256.880000" upper="1343.760000" label="1256.8800 - 1343.7600"/>
+                    <range symbol="18" lower="1343.760000" upper="1422.000000" label="1343.7600 - 1422.0000"/>
+                    <range symbol="19" lower="1422.000000" upper="1524.400000" label="1422.0000 - 1524.4000"/>
+                    <range symbol="20" lower="1524.400000" upper="1605.160000" label="1524.4000 - 1605.1600"/>
+                    <range symbol="21" lower="1605.160000" upper="1749.040000" label="1605.1600 - 1749.0400"/>
+                    <range symbol="22" lower="1749.040000" upper="1904.960000" label="1749.0400 - 1904.9600"/>
+                    <range symbol="23" lower="1904.960000" upper="2069.720000" label="1904.9600 - 2069.7200"/>
+                    <range symbol="24" lower="2069.720000" upper="2232.000000" label="2069.7200 - 2232.0000"/>
+                    <range symbol="25" lower="2232.000000" upper="2439.280000" label="2232.0000 - 2439.2800"/>
+                    <range symbol="26" lower="2439.280000" upper="2645.280000" label="2439.2800 - 2645.2800"/>
+                    <range symbol="27" lower="2645.280000" upper="2874.800000" label="2645.2800 - 2874.8000"/>
+                    <range symbol="28" lower="2874.800000" upper="3211.280000" label="2874.8000 - 3211.2800"/>
+                    <range symbol="29" lower="3211.280000" upper="3744.800000" label="3211.2800 - 3744.8000"/>
+                    <range symbol="30" lower="3744.800000" upper="4375.920000" label="3744.8000 - 4375.9200"/>
+                    <range symbol="31" lower="4375.920000" upper="4792.480000" label="4375.9200 - 4792.4800"/>
+                    <range symbol="32" lower="4792.480000" upper="5553.360000" label="4792.4800 - 5553.3600"/>
+                    <range symbol="33" lower="5553.360000" upper="6631.760000" label="5553.3600 - 6631.7600"/>
+                    <range symbol="34" lower="6631.760000" upper="7858.200000" label="6631.7600 - 7858.2000"/>
+                    <range symbol="35" lower="7858.200000" upper="9453.240000" label="7858.2000 - 9453.2400"/>
+                    <range symbol="36" lower="9453.240000" upper="12053.160000" label="9453.2400 - 12053.1600"/>
+                    <range symbol="37" lower="12053.160000" upper="15212.160000" label="12053.1600 - 15212.1600"/>
+                    <range symbol="38" lower="15212.160000" upper="19462.120000" label="15212.1600 - 19462.1200"/>
+                    <range symbol="39" lower="19462.120000" upper="24802.400000" label="19462.1200 - 24802.4000"/>
+                    <range symbol="40" lower="24802.400000" upper="31197.600000" label="24802.4000 - 31197.6000"/>
+                    <range symbol="41" lower="31197.600000" upper="38288.600000" label="31197.6000 - 38288.6000"/>
+                    <range symbol="42" lower="38288.600000" upper="49171.200000" label="38288.6000 - 49171.2000"/>
+                    <range symbol="43" lower="49171.200000" upper="63635.920000" label="49171.2000 - 63635.9200"/>
+                    <range symbol="44" lower="63635.920000" upper="86225.800000" label="63635.9200 - 86225.8000"/>
+                    <range symbol="45" lower="86225.800000" upper="179132.880000" label="86225.8000 - 179132.8800"/>
+                    <range symbol="46" lower="179132.880000" upper="478706.160000" label="179132.8800 - 478706.1600"/>
+                    <range symbol="47" lower="478706.160000" upper="777040.520000" label="478706.1600 - 777040.5200"/>
+                    <range symbol="48" lower="777040.520000" upper="1047823.720000" label="777040.5200 - 1047823.7200"/>
+                    <range symbol="49" lower="1047823.720000" upper="3585245.000000" label="1047823.7200 - 3585245.0000"/>
+                </ranges>
+                <symbols>
+                    <symbol alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="250,250,250,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="1">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="245,245,245,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="10">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="200,200,200,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="11">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="195,195,195,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="12">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="190,190,190,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="13">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="185,185,185,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="14">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="180,180,180,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="15">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="175,175,175,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="16">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="170,170,170,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="17">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="165,165,165,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="18">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="160,160,160,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="19">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="155,155,155,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="2">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="240,240,240,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="20">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="150,150,150,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="21">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="145,145,145,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="22">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="140,140,140,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="23">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="135,135,135,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="24">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="130,130,130,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="25">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="125,125,125,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="26">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="120,120,120,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="27">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="115,115,115,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="28">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="110,110,110,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="29">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="105,105,105,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="3">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="235,235,235,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="30">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="100,100,100,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="31">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="95,95,95,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="32">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="90,90,90,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="33">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="85,85,85,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="34">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="80,80,80,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="35">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="75,75,75,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="36">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="70,70,70,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="37">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="65,65,65,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="38">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="60,60,60,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="39">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="55,55,55,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="4">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="230,230,230,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="40">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="50,50,50,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="41">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="45,45,45,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="42">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="40,40,40,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="43">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="35,35,35,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="44">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="30,30,30,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="45">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="25,25,25,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="46">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="20,20,20,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="47">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="15,15,15,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="48">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="10,10,10,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="49">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="5,5,5,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="5">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="225,225,225,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="6">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="220,220,220,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="7">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="215,215,215,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="8">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="210,210,210,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="9">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="205,205,205,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <source-symbol>
+                    <symbol alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="119,69,136,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </source-symbol>
+                <colorramp type="gradient" name="[source]">
+                    <prop k="color1" v="250,250,250,255"/>
+                    <prop k="color2" v="5,5,5,255"/>
+                    <prop k="discrete" v="0"/>
+                </colorramp>
+                <mode name="quantile"/>
+                <rotation field=""/>
+                <sizescale field="" scalemethod="area"/>
+            </renderer-v2>
+            <customproperties>
+                <property key="labeling" value="pal"/>
+                <property key="labeling/addDirectionSymbol" value="false"/>
+                <property key="labeling/angleOffset" value="0"/>
+                <property key="labeling/blendMode" value="0"/>
+                <property key="labeling/bufferBlendMode" value="0"/>
+                <property key="labeling/bufferColorA" value="255"/>
+                <property key="labeling/bufferColorB" value="255"/>
+                <property key="labeling/bufferColorG" value="255"/>
+                <property key="labeling/bufferColorR" value="255"/>
+                <property key="labeling/bufferDraw" value="false"/>
+                <property key="labeling/bufferJoinStyle" value="64"/>
+                <property key="labeling/bufferNoFill" value="false"/>
+                <property key="labeling/bufferSize" value="1"/>
+                <property key="labeling/bufferSizeInMapUnits" value="false"/>
+                <property key="labeling/bufferTransp" value="0"/>
+                <property key="labeling/centroidWhole" value="false"/>
+                <property key="labeling/decimals" value="3"/>
+                <property key="labeling/displayAll" value="false"/>
+                <property key="labeling/dist" value="0"/>
+                <property key="labeling/distInMapUnits" value="false"/>
+                <property key="labeling/enabled" value="false"/>
+                <property key="labeling/fieldName" value=""/>
+                <property key="labeling/fontBold" value="false"/>
+                <property key="labeling/fontCapitals" value="0"/>
+                <property key="labeling/fontFamily" value="Sans"/>
+                <property key="labeling/fontItalic" value="false"/>
+                <property key="labeling/fontLetterSpacing" value="0"/>
+                <property key="labeling/fontLimitPixelSize" value="false"/>
+                <property key="labeling/fontMaxPixelSize" value="10000"/>
+                <property key="labeling/fontMinPixelSize" value="3"/>
+                <property key="labeling/fontSize" value="9"/>
+                <property key="labeling/fontSizeInMapUnits" value="false"/>
+                <property key="labeling/fontStrikeout" value="false"/>
+                <property key="labeling/fontUnderline" value="false"/>
+                <property key="labeling/fontWeight" value="50"/>
+                <property key="labeling/fontWordSpacing" value="0"/>
+                <property key="labeling/formatNumbers" value="false"/>
+                <property key="labeling/isExpression" value="false"/>
+                <property key="labeling/labelOffsetInMapUnits" value="true"/>
+                <property key="labeling/labelPerPart" value="false"/>
+                <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+                <property key="labeling/limitNumLabels" value="false"/>
+                <property key="labeling/maxCurvedCharAngleIn" value="20"/>
+                <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
+                <property key="labeling/maxNumLabels" value="2000"/>
+                <property key="labeling/mergeLines" value="false"/>
+                <property key="labeling/minFeatureSize" value="0"/>
+                <property key="labeling/multilineAlign" value="0"/>
+                <property key="labeling/multilineHeight" value="1"/>
+                <property key="labeling/namedStyle" value=""/>
+                <property key="labeling/obstacle" value="true"/>
+                <property key="labeling/placeDirectionSymbol" value="0"/>
+                <property key="labeling/placement" value="0"/>
+                <property key="labeling/placementFlags" value="0"/>
+                <property key="labeling/plussign" value="false"/>
+                <property key="labeling/preserveRotation" value="true"/>
+                <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+                <property key="labeling/priority" value="5"/>
+                <property key="labeling/quadOffset" value="4"/>
+                <property key="labeling/reverseDirectionSymbol" value="false"/>
+                <property key="labeling/rightDirectionSymbol" value=">"/>
+                <property key="labeling/scaleMax" value="10000000"/>
+                <property key="labeling/scaleMin" value="1"/>
+                <property key="labeling/scaleVisibility" value="false"/>
+                <property key="labeling/shadowBlendMode" value="6"/>
+                <property key="labeling/shadowColorB" value="0"/>
+                <property key="labeling/shadowColorG" value="0"/>
+                <property key="labeling/shadowColorR" value="0"/>
+                <property key="labeling/shadowDraw" value="false"/>
+                <property key="labeling/shadowOffsetAngle" value="135"/>
+                <property key="labeling/shadowOffsetDist" value="1"/>
+                <property key="labeling/shadowOffsetGlobal" value="true"/>
+                <property key="labeling/shadowOffsetUnits" value="1"/>
+                <property key="labeling/shadowRadius" value="1.5"/>
+                <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+                <property key="labeling/shadowRadiusUnits" value="1"/>
+                <property key="labeling/shadowScale" value="100"/>
+                <property key="labeling/shadowTransparency" value="30"/>
+                <property key="labeling/shadowUnder" value="0"/>
+                <property key="labeling/shapeBlendMode" value="0"/>
+                <property key="labeling/shapeBorderColorA" value="255"/>
+                <property key="labeling/shapeBorderColorB" value="128"/>
+                <property key="labeling/shapeBorderColorG" value="128"/>
+                <property key="labeling/shapeBorderColorR" value="128"/>
+                <property key="labeling/shapeBorderWidth" value="0"/>
+                <property key="labeling/shapeBorderWidthUnits" value="1"/>
+                <property key="labeling/shapeDraw" value="false"/>
+                <property key="labeling/shapeFillColorA" value="255"/>
+                <property key="labeling/shapeFillColorB" value="255"/>
+                <property key="labeling/shapeFillColorG" value="255"/>
+                <property key="labeling/shapeFillColorR" value="255"/>
+                <property key="labeling/shapeJoinStyle" value="64"/>
+                <property key="labeling/shapeOffsetUnits" value="1"/>
+                <property key="labeling/shapeOffsetX" value="0"/>
+                <property key="labeling/shapeOffsetY" value="0"/>
+                <property key="labeling/shapeRadiiUnits" value="1"/>
+                <property key="labeling/shapeRadiiX" value="0"/>
+                <property key="labeling/shapeRadiiY" value="0"/>
+                <property key="labeling/shapeRotation" value="0"/>
+                <property key="labeling/shapeRotationType" value="0"/>
+                <property key="labeling/shapeSVGFile" value=""/>
+                <property key="labeling/shapeSizeType" value="0"/>
+                <property key="labeling/shapeSizeUnits" value="1"/>
+                <property key="labeling/shapeSizeX" value="0"/>
+                <property key="labeling/shapeSizeY" value="0"/>
+                <property key="labeling/shapeTransparency" value="0"/>
+                <property key="labeling/shapeType" value="0"/>
+                <property key="labeling/textColorA" value="255"/>
+                <property key="labeling/textColorB" value="0"/>
+                <property key="labeling/textColorG" value="0"/>
+                <property key="labeling/textColorR" value="0"/>
+                <property key="labeling/textTransp" value="0"/>
+                <property key="labeling/upsidedownLabels" value="0"/>
+                <property key="labeling/wrapChar" value=""/>
+                <property key="labeling/xOffset" value="0"/>
+                <property key="labeling/yOffset" value="0"/>
+            </customproperties>
+            <blendMode>0</blendMode>
+            <featureBlendMode>0</featureBlendMode>
+            <layerTransparency>0</layerTransparency>
+            <displayfield>boro_name</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Label"/>
+                <family fieldname="" name="Sans"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E011"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E012"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E013"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E014"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E015"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E016"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E017"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E018"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E019"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M011"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M012"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M013"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M014"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M015"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M016"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M017"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M018"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M019"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="Estimates: Mean usual hours: Total"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE022"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE023"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE024"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE025"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE026"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE027"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE028"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE029"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE030"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE031"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE032"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE033"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE034"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE035"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE036"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE037"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE038"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE039"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE040"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE041"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE042"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE043"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE044"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE045"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE046"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE047"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE048"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE049"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE050"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE051"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE052"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE053"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE054"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE055"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE056"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE057"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE058"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE059"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE060"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE061"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE062"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE063"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE064"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE065"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE066"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE067"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE068"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE069"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE070"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE071"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE072"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE073"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE074"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE075"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE076"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE077"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE078"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE079"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE080"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE081"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE082"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE083"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE084"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE085"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE086"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE087"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE088"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE089"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE090"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE091"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE092"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE093"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE094"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE095"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE096"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE097"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE098"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE099"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE100"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE101"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE102"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE103"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE104"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE105"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE106"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE107"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE108"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE109"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE110"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE111"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE112"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE113"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE114"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE115"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE116"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE117"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE118"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE119"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE120"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM022"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM023"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM024"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM025"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM026"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM027"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM028"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM029"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM030"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM031"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM032"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM033"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM034"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM035"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM036"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM037"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM038"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM039"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM040"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM041"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM042"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM043"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM044"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM045"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM046"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM047"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM048"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM049"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM050"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM051"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM052"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM053"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM054"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM055"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM056"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM057"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM058"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM059"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM060"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM061"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM062"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM063"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM064"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM065"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM066"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM067"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM068"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM069"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM070"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM071"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM072"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM073"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM074"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM075"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM076"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM077"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM078"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM079"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM080"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM081"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM082"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM083"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM084"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM085"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM086"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM087"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM088"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM089"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM090"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM091"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM092"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM093"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM094"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM095"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM096"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM097"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM098"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM099"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM100"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM101"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM102"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM103"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM104"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM105"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM106"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM107"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM108"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM109"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM110"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM111"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM112"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM113"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM114"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM115"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM116"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM117"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM118"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM119"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM120"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MP1E001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MP1M001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MRUE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MRUM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="Margins of error: Mean usual hours: Total"/>
+                <edittype labelontop="0" editable="1" type="0" name="abridged2013ycdrpoff"/>
+                <edittype labelontop="0" editable="1" type="0" name="abridged2013ycdrpoffpc"/>
+                <edittype labelontop="0" editable="1" type="0" name="adjustedcarcommute1"/>
+                <edittype labelontop="0" editable="1" type="0" name="adjustedcarcommute1me"/>
+                <edittype labelontop="0" editable="1" type="0" name="adjustedcarcommute2"/>
+                <edittype labelontop="0" editable="1" type="0" name="approx_car_ctime"/>
+                <edittype labelontop="0" editable="1" type="0" name="approx_sub_ctime"/>
+                <edittype labelontop="0" editable="1" type="0" name="boro_int_code"/>
+                <edittype labelontop="0" editable="1" type="0" name="boro_name"/>
+                <edittype labelontop="0" editable="1" type="0" name="car"/>
+                <edittype labelontop="0" editable="1" type="0" name="caralone"/>
+                <edittype labelontop="0" editable="1" type="0" name="carpool"/>
+                <edittype labelontop="0" editable="1" type="0" name="carpool2"/>
+                <edittype labelontop="0" editable="1" type="0" name="carpool3"/>
+                <edittype labelontop="0" editable="1" type="0" name="columnapprox_car_ctime"/>
+                <edittype labelontop="0" editable="1" type="0" name="counts"/>
+                <edittype labelontop="0" editable="1" type="0" name="driver_income_anscombe_resid"/>
+                <edittype labelontop="0" editable="1" type="0" name="driver_income_standard_dev_resid"/>
+                <edittype labelontop="0" editable="1" type="0" name="esb-centroidduration"/>
+                <edittype labelontop="0" editable="1" type="0" name="fipscodes"/>
+                <edittype labelontop="0" editable="1" type="0" name="fipsindex"/>
+                <edittype labelontop="0" editable="1" type="0" name="nondrivercomrat"/>
+                <edittype labelontop="0" editable="1" type="0" name="ntaname"/>
+                <edittype labelontop="0" editable="1" type="0" name="percTaxi"/>
+                <edittype labelontop="0" editable="1" type="0" name="perc_white"/>
+                <edittype labelontop="0" editable="1" type="0" name="percapcar"/>
+                <edittype labelontop="0" editable="1" type="0" name="percdiff_full_count_time_diff_derived"/>
+                <edittype labelontop="0" editable="1" type="0" name="time_dif_derived_approxcount"/>
+                <edittype labelontop="0" editable="1" type="0" name="time_dif_derived_approxcount_error"/>
+                <edittype labelontop="0" editable="1" type="0" name="time_dif_derived_approxcount_percerror"/>
+                <edittype labelontop="0" editable="1" type="0" name="totalpopulation"/>
+                <edittype labelontop="0" editable="1" type="0" name="tractgeom"/>
+                <edittype labelontop="0" editable="1" type="0" name="trans2worktotal"/>
+                <edittype labelontop="0" editable="1" type="0" name="twentythirteen_full_count"/>
+                <edittype labelontop="0" editable="1" type="0" name="twentythirteen_full_count_pc"/>
+            </edittypes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <editorlayout>generatedlayout</editorlayout>
+            <excludeAttributesWMS/>
+            <excludeAttributesWFS/>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>lotsofdata20160309151245638</id>
+            <datasource>dbname='TaxiData' host=localhost port=5432 user='postgres' sslmode=disable key='fipscodes' srid=2263 type=MULTIPOLYGON table="public"."lotsofdata" (tract_geom_coast) sql=</datasource>
+            <title></title>
+            <abstract></abstract>
+            <keywordList>
+                <value></value>
+            </keywordList>
+            <layername>Per-capita income</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=lcc +lat_1=41.03333333333333 +lat_2=40.66666666666666 +lat_0=40.16666666666666 +lon_0=-74 +x_0=300000.0000000001 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+                    <srsid>245</srsid>
+                    <srid>2263</srid>
+                    <authid>EPSG:2263</authid>
+                    <description>NAD83 / New York Long Island (ftUS)</description>
+                    <projectionacronym>lcc</projectionacronym>
+                    <ellipsoidacronym>GRS80</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <provider encoding="System">postgres</provider>
+            <previewExpression></previewExpression>
+            <vectorjoins/>
+            <renderer-v2 attr="MRUE001" symbollevels="0" type="graduatedSymbol">
+                <ranges>
+                    <range symbol="0" lower="3961.000000" upper="12246.800000" label="3961.0000 - 12246.8000"/>
+                    <range symbol="1" lower="12246.800000" upper="14481.133333" label="12246.8000 - 14481.1333"/>
+                    <range symbol="2" lower="14481.133333" upper="16569.400000" label="14481.1333 - 16569.4000"/>
+                    <range symbol="3" lower="16569.400000" upper="18179.266667" label="16569.4000 - 18179.2667"/>
+                    <range symbol="4" lower="18179.266667" upper="19679.000000" label="18179.2667 - 19679.0000"/>
+                    <range symbol="5" lower="19679.000000" upper="21367.200000" label="19679.0000 - 21367.2000"/>
+                    <range symbol="6" lower="21367.200000" upper="23039.933333" label="21367.2000 - 23039.9333"/>
+                    <range symbol="7" lower="23039.933333" upper="24826.533333" label="23039.9333 - 24826.5333"/>
+                    <range symbol="8" lower="24826.533333" upper="26864.400000" label="24826.5333 - 26864.4000"/>
+                    <range symbol="9" lower="26864.400000" upper="28901.333333" label="26864.4000 - 28901.3333"/>
+                    <range symbol="10" lower="28901.333333" upper="32125.266667" label="28901.3333 - 32125.2667"/>
+                    <range symbol="11" lower="32125.266667" upper="35477.000000" label="32125.2667 - 35477.0000"/>
+                    <range symbol="12" lower="35477.000000" upper="42267.333333" label="35477.0000 - 42267.3333"/>
+                    <range symbol="13" lower="42267.333333" upper="66713.733333" label="42267.3333 - 66713.7333"/>
+                    <range symbol="14" lower="66713.733333" upper="225518.000000" label="66713.7333 - 225518.0000"/>
+                </ranges>
+                <symbols>
+                    <symbol alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,255,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="1">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="240,248,2,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="10">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="105,186,27,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="11">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="90,179,29,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="12">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="75,172,32,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="13">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="60,165,35,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="14">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="46,159,38,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="2">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="225,241,5,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="3">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="210,234,8,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="4">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="195,227,10,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="5">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="180,220,13,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="6">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="165,213,16,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="7">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="150,207,19,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="8">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="135,200,21,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="9">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="120,193,24,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <source-symbol>
+                    <symbol alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="194,153,206,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </source-symbol>
+                <colorramp type="gradient" name="[source]">
+                    <prop k="color1" v="255,255,0,255"/>
+                    <prop k="color2" v="46,159,38,255"/>
+                    <prop k="discrete" v="0"/>
+                </colorramp>
+                <mode name="quantile"/>
+                <rotation field=""/>
+                <sizescale field="" scalemethod="area"/>
+            </renderer-v2>
+            <customproperties>
+                <property key="labeling" value="pal"/>
+                <property key="labeling/addDirectionSymbol" value="false"/>
+                <property key="labeling/angleOffset" value="0"/>
+                <property key="labeling/blendMode" value="0"/>
+                <property key="labeling/bufferBlendMode" value="0"/>
+                <property key="labeling/bufferColorA" value="255"/>
+                <property key="labeling/bufferColorB" value="255"/>
+                <property key="labeling/bufferColorG" value="255"/>
+                <property key="labeling/bufferColorR" value="255"/>
+                <property key="labeling/bufferDraw" value="false"/>
+                <property key="labeling/bufferJoinStyle" value="64"/>
+                <property key="labeling/bufferNoFill" value="false"/>
+                <property key="labeling/bufferSize" value="1"/>
+                <property key="labeling/bufferSizeInMapUnits" value="false"/>
+                <property key="labeling/bufferTransp" value="0"/>
+                <property key="labeling/centroidWhole" value="false"/>
+                <property key="labeling/decimals" value="3"/>
+                <property key="labeling/displayAll" value="false"/>
+                <property key="labeling/dist" value="0"/>
+                <property key="labeling/distInMapUnits" value="false"/>
+                <property key="labeling/enabled" value="false"/>
+                <property key="labeling/fieldName" value=""/>
+                <property key="labeling/fontBold" value="false"/>
+                <property key="labeling/fontCapitals" value="0"/>
+                <property key="labeling/fontFamily" value="Sans"/>
+                <property key="labeling/fontItalic" value="false"/>
+                <property key="labeling/fontLetterSpacing" value="0"/>
+                <property key="labeling/fontLimitPixelSize" value="false"/>
+                <property key="labeling/fontMaxPixelSize" value="10000"/>
+                <property key="labeling/fontMinPixelSize" value="3"/>
+                <property key="labeling/fontSize" value="9"/>
+                <property key="labeling/fontSizeInMapUnits" value="false"/>
+                <property key="labeling/fontStrikeout" value="false"/>
+                <property key="labeling/fontUnderline" value="false"/>
+                <property key="labeling/fontWeight" value="50"/>
+                <property key="labeling/fontWordSpacing" value="0"/>
+                <property key="labeling/formatNumbers" value="false"/>
+                <property key="labeling/isExpression" value="false"/>
+                <property key="labeling/labelOffsetInMapUnits" value="true"/>
+                <property key="labeling/labelPerPart" value="false"/>
+                <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+                <property key="labeling/limitNumLabels" value="false"/>
+                <property key="labeling/maxCurvedCharAngleIn" value="20"/>
+                <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
+                <property key="labeling/maxNumLabels" value="2000"/>
+                <property key="labeling/mergeLines" value="false"/>
+                <property key="labeling/minFeatureSize" value="0"/>
+                <property key="labeling/multilineAlign" value="0"/>
+                <property key="labeling/multilineHeight" value="1"/>
+                <property key="labeling/namedStyle" value=""/>
+                <property key="labeling/obstacle" value="true"/>
+                <property key="labeling/placeDirectionSymbol" value="0"/>
+                <property key="labeling/placement" value="0"/>
+                <property key="labeling/placementFlags" value="0"/>
+                <property key="labeling/plussign" value="false"/>
+                <property key="labeling/preserveRotation" value="true"/>
+                <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+                <property key="labeling/priority" value="5"/>
+                <property key="labeling/quadOffset" value="4"/>
+                <property key="labeling/reverseDirectionSymbol" value="false"/>
+                <property key="labeling/rightDirectionSymbol" value=">"/>
+                <property key="labeling/scaleMax" value="10000000"/>
+                <property key="labeling/scaleMin" value="1"/>
+                <property key="labeling/scaleVisibility" value="false"/>
+                <property key="labeling/shadowBlendMode" value="6"/>
+                <property key="labeling/shadowColorB" value="0"/>
+                <property key="labeling/shadowColorG" value="0"/>
+                <property key="labeling/shadowColorR" value="0"/>
+                <property key="labeling/shadowDraw" value="false"/>
+                <property key="labeling/shadowOffsetAngle" value="135"/>
+                <property key="labeling/shadowOffsetDist" value="1"/>
+                <property key="labeling/shadowOffsetGlobal" value="true"/>
+                <property key="labeling/shadowOffsetUnits" value="1"/>
+                <property key="labeling/shadowRadius" value="1.5"/>
+                <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+                <property key="labeling/shadowRadiusUnits" value="1"/>
+                <property key="labeling/shadowScale" value="100"/>
+                <property key="labeling/shadowTransparency" value="30"/>
+                <property key="labeling/shadowUnder" value="0"/>
+                <property key="labeling/shapeBlendMode" value="0"/>
+                <property key="labeling/shapeBorderColorA" value="255"/>
+                <property key="labeling/shapeBorderColorB" value="128"/>
+                <property key="labeling/shapeBorderColorG" value="128"/>
+                <property key="labeling/shapeBorderColorR" value="128"/>
+                <property key="labeling/shapeBorderWidth" value="0"/>
+                <property key="labeling/shapeBorderWidthUnits" value="1"/>
+                <property key="labeling/shapeDraw" value="false"/>
+                <property key="labeling/shapeFillColorA" value="255"/>
+                <property key="labeling/shapeFillColorB" value="255"/>
+                <property key="labeling/shapeFillColorG" value="255"/>
+                <property key="labeling/shapeFillColorR" value="255"/>
+                <property key="labeling/shapeJoinStyle" value="64"/>
+                <property key="labeling/shapeOffsetUnits" value="1"/>
+                <property key="labeling/shapeOffsetX" value="0"/>
+                <property key="labeling/shapeOffsetY" value="0"/>
+                <property key="labeling/shapeRadiiUnits" value="1"/>
+                <property key="labeling/shapeRadiiX" value="0"/>
+                <property key="labeling/shapeRadiiY" value="0"/>
+                <property key="labeling/shapeRotation" value="0"/>
+                <property key="labeling/shapeRotationType" value="0"/>
+                <property key="labeling/shapeSVGFile" value=""/>
+                <property key="labeling/shapeSizeType" value="0"/>
+                <property key="labeling/shapeSizeUnits" value="1"/>
+                <property key="labeling/shapeSizeX" value="0"/>
+                <property key="labeling/shapeSizeY" value="0"/>
+                <property key="labeling/shapeTransparency" value="0"/>
+                <property key="labeling/shapeType" value="0"/>
+                <property key="labeling/textColorA" value="255"/>
+                <property key="labeling/textColorB" value="0"/>
+                <property key="labeling/textColorG" value="0"/>
+                <property key="labeling/textColorR" value="0"/>
+                <property key="labeling/textTransp" value="0"/>
+                <property key="labeling/upsidedownLabels" value="0"/>
+                <property key="labeling/wrapChar" value=""/>
+                <property key="labeling/xOffset" value="0"/>
+                <property key="labeling/yOffset" value="0"/>
+            </customproperties>
+            <blendMode>0</blendMode>
+            <featureBlendMode>0</featureBlendMode>
+            <layerTransparency>0</layerTransparency>
+            <displayfield>boro_name</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Label"/>
+                <family fieldname="" name="Sans"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2E010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA2M010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E011"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E012"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E013"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E014"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E015"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E016"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E017"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E018"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3E019"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M004"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M005"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M006"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M007"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M008"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M009"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M010"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M011"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M012"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M013"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M014"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M015"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M016"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M017"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M018"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABA3M019"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="ABBBM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="Estimates: Mean usual hours: Total"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE022"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE023"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE024"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE025"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE026"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE027"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE028"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE029"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE030"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE031"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE032"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE033"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE034"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE035"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE036"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE037"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE038"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE039"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE040"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE041"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE042"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE043"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE044"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE045"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE046"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE047"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE048"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE049"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE050"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE051"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE052"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE053"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE054"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE055"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE056"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE057"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE058"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE059"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE060"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE061"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE062"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE063"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE064"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE065"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE066"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE067"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE068"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE069"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE070"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE071"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE072"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE073"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE074"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE075"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE076"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE077"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE078"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE079"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE080"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE081"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE082"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE083"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE084"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE085"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE086"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE087"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE088"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE089"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE090"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE091"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE092"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE093"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE094"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE095"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE096"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE097"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE098"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE099"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE100"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE101"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE102"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE103"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE104"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE105"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE106"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE107"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE108"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE109"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE110"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE111"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE112"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE113"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE114"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE115"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE116"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE117"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE118"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE119"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGE120"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM022"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM023"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM024"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM025"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM026"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM027"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM028"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM029"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM030"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM031"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM032"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM033"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM034"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM035"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM036"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM037"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM038"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM039"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM040"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM041"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM042"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM043"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM044"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM045"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM046"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM047"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM048"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM049"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM050"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM051"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM052"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM053"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM054"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM055"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM056"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM057"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM058"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM059"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM060"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM061"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM062"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM063"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM064"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM065"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM066"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM067"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM068"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM069"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM070"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM071"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM072"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM073"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM074"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM075"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM076"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM077"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM078"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM079"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM080"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM081"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM082"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM083"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM084"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM085"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM086"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM087"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM088"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM089"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM090"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM091"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM092"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM093"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM094"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM095"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM096"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM097"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM098"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM099"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM100"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM101"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM102"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM103"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM104"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM105"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM106"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM107"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM108"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM109"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM110"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM111"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM112"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM113"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM114"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM115"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM116"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM117"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM118"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM119"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOGM120"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJE021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM016"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM017"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM018"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM019"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM020"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOJM021"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKE015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM014"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOKM015"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLE013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM008"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM009"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM010"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM011"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM012"/>
+                <edittype labelontop="0" editable="1" type="0" name="MOLM013"/>
+                <edittype labelontop="0" editable="1" type="0" name="MP1E001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MP1M001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MRUE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MRUM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOE007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM006"/>
+                <edittype labelontop="0" editable="1" type="0" name="MSOM007"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVSM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVUM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWE005"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM001"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM002"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM003"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM004"/>
+                <edittype labelontop="0" editable="1" type="0" name="MVWM005"/>
+                <edittype labelontop="0" editable="1" type="0" name="Margins of error: Mean usual hours: Total"/>
+                <edittype labelontop="0" editable="1" type="0" name="abridged2013ycdrpoff"/>
+                <edittype labelontop="0" editable="1" type="0" name="abridged2013ycdrpoffpc"/>
+                <edittype labelontop="0" editable="1" type="0" name="adjustedcarcommute1"/>
+                <edittype labelontop="0" editable="1" type="0" name="adjustedcarcommute1me"/>
+                <edittype labelontop="0" editable="1" type="0" name="adjustedcarcommute2"/>
+                <edittype labelontop="0" editable="1" type="0" name="approx_car_ctime"/>
+                <edittype labelontop="0" editable="1" type="0" name="approx_sub_ctime"/>
+                <edittype labelontop="0" editable="1" type="0" name="boro_int_code"/>
+                <edittype labelontop="0" editable="1" type="0" name="boro_name"/>
+                <edittype labelontop="0" editable="1" type="0" name="car"/>
+                <edittype labelontop="0" editable="1" type="0" name="caralone"/>
+                <edittype labelontop="0" editable="1" type="0" name="carpool"/>
+                <edittype labelontop="0" editable="1" type="0" name="carpool2"/>
+                <edittype labelontop="0" editable="1" type="0" name="carpool3"/>
+                <edittype labelontop="0" editable="1" type="0" name="columnapprox_car_ctime"/>
+                <edittype labelontop="0" editable="1" type="0" name="counts"/>
+                <edittype labelontop="0" editable="1" type="0" name="driver_income_anscombe_resid"/>
+                <edittype labelontop="0" editable="1" type="0" name="driver_income_standard_dev_resid"/>
+                <edittype labelontop="0" editable="1" type="0" name="esb-centroidduration"/>
+                <edittype labelontop="0" editable="1" type="0" name="fipscodes"/>
+                <edittype labelontop="0" editable="1" type="0" name="fipsindex"/>
+                <edittype labelontop="0" editable="1" type="0" name="nondrivercomrat"/>
+                <edittype labelontop="0" editable="1" type="0" name="ntaname"/>
+                <edittype labelontop="0" editable="1" type="0" name="percTaxi"/>
+                <edittype labelontop="0" editable="1" type="0" name="perc_white"/>
+                <edittype labelontop="0" editable="1" type="0" name="percapcar"/>
+                <edittype labelontop="0" editable="1" type="0" name="percdiff_full_count_time_diff_derived"/>
+                <edittype labelontop="0" editable="1" type="0" name="time_dif_derived_approxcount"/>
+                <edittype labelontop="0" editable="1" type="0" name="time_dif_derived_approxcount_error"/>
+                <edittype labelontop="0" editable="1" type="0" name="time_dif_derived_approxcount_percerror"/>
+                <edittype labelontop="0" editable="1" type="0" name="totalpopulation"/>
+                <edittype labelontop="0" editable="1" type="0" name="tractgeom"/>
+                <edittype labelontop="0" editable="1" type="0" name="trans2worktotal"/>
+                <edittype labelontop="0" editable="1" type="0" name="twentythirteen_full_count"/>
+                <edittype labelontop="0" editable="1" type="0" name="twentythirteen_full_count_pc"/>
+            </edittypes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <editorlayout>generatedlayout</editorlayout>
+            <excludeAttributesWMS/>
+            <excludeAttributesWFS/>
+            <attributeactions/>
+        </maplayer>
+    </projectlayers>
+    <properties>
+        <SpatialRefSys>
+            <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+            <ProjectCRSID type="int">245</ProjectCRSID>
+        </SpatialRefSys>
+        <Paths>
+            <Absolute type="bool">false</Absolute>
+        </Paths>
+        <Gui>
+            <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+            <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+            <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+            <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+            <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+            <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+            <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+        </Gui>
+        <PositionPrecision>
+            <DecimalPlaces type="int">2</DecimalPlaces>
+            <Automatic type="bool">true</Automatic>
+        </PositionPrecision>
+    </properties>
+</qgis>
