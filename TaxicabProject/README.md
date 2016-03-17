@@ -11,5 +11,5 @@ I got my data from [the nice nhgis website](https://nhgis.org/).
 Shapefiles for doing the GIS work can be found from the [NYC city government](http://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page)
 or from the [census bureau](https://www.census.gov/geo/maps-data/data/tiger-line.html).
 
-Unfortunately, I was learning SQL and GIS while I was creating my SQL database, so I didn't document how to create it.
+Unfortunately, I was learning SQL and PostGIS while I was creating my SQL database, so I didn't document how to create it.
 If you want to reproduce what I did, you'll have to gather the data yourself and build the SQL database on your own. :(
